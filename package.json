@@ -63,7 +63,7 @@
     "node": ">=14.18.0"
   },
   "dependencies": {
-    "markdown-it": "13.0.1",
+    "markdown-it": "14.1.1",
     "markdownlint-micromark": "0.1.2"
   },
   "devDependencies": {
